@@ -23,3 +23,11 @@ align-items: center;
 cursor: pointer;
 user-select: none;
 }
+.cell:hover {
+    background-color: #ddd;
+}
+
+button{
+    margin-top: 20px;
+    padding: 10px 20px;
+}
